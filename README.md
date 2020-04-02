@@ -13,7 +13,7 @@ bleach	1.5.0
 certifi	2019.11.28
 chardet	3.0.4
 cycler	0.10.0
-easyfacenet	1.0.5 (should be downloaded seperately)
+easyfacenet	1.0.5 (should be downloaded seperately)(You can also have a refer .whl or .gz file I uploaded)
 gast	0.3.3
 grpcio	1.27.2
 h5py	2.10.0
