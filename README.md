@@ -2,6 +2,7 @@
 A Organization ID verification and Registration web application using Face Recognition based on CNN
 
 Here is the list of libraries along with their versions in order to run python files without any error
+compatible with 64-bit python 3.7
 
 Markdown	3.2.1	
 Markdown	3.2.1
